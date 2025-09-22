@@ -1,2 +1,2 @@
 # JEDD-AI-Web
-z
+git clone https://github.com/DonkingVB/JEDD-AI-Web
